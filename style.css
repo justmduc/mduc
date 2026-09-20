@@ -82,7 +82,7 @@ input[type="text"], select
 .nut 
 {
     padding-left: 130px;
-    text-align: left;
+    text-align: center;
     font-size: 12px;
     cursor: pointer;
 }
