@@ -81,7 +81,6 @@ input[type="text"], select
 }
 .nut 
 {
-    padding-right: 30px;
     text-align: center;
     font-size: 12px;
     cursor: pointer;
